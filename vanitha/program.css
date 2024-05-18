@@ -1,0 +1,306 @@
+/* CSS Document written by (simhachalamdevasthanam@gmail.com)*/
+
+ 
+.m{
+	text-align: right;
+	font-weight: bold;
+	font-family: Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: white;
+	height: 25px;
+	background-color: coral;
+}
+.mc{
+	font-size: 14px;
+	color: black;
+}
+.mc:hover{
+	font-size: 15px;
+	color: blue;
+}
+.sm{
+	text-align: center;
+	font-weight: bold;
+	font-family: Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: black;
+	height: 26px;
+	background-color: coral;
+}
+.ssm{
+	text-align: left;
+	font-weight: bold;
+	font-family: Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+	height: 22px;
+	background-color: forestgreen;
+}
+.ssmc{
+	font-size: 14px;
+	color: black;
+}
+.ssmc:hover{
+	font-size: 15px;
+	color: blue;
+}
+.scroll{
+	text-align: center;
+	font-weight: bold;
+	font-family: Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+	height: 22px;
+	background-color: forestgreen;
+}
+.scrollc{
+	font-size: 18px;
+	color: yellow;
+}
+.scrollc:hover{
+	font-size: 18px;
+	color: white;
+}
+.f{
+	height: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-family: Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+}
+.fc{
+	font-size: 12px;
+	color: black;
+}
+.fc:hover{
+	font-size: 13px;
+	color: blue;
+}
+.hbgc{
+	background-color: #FFCC99;
+	width:1000px;
+	height:100%;
+}
+.pbgc{
+	background-color: #FFCC99;
+	width:725px;
+	height:100%;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.table {
+	width:725px;
+	height:100%;
+	border-collapse: collapse;
+	border-width: 0px;
+	border-spacing: 0px;
+	border-style: outset;
+}
+.table td {
+	border-width: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-style: inset;
+	border-color: black;
+	-moz-border-radius: ;
+}
+.ptab {
+	width:725px;
+	height:100%;
+	border-collapse: collapse;
+	border-width: 0px;
+	border-spacing: 0px;
+	border-style: outset;
+	border-color: black;	
+}
+.ptab td {
+	border-width: 0px;
+	padding: 0px;
+	border-style: inset;
+	border-color: black;
+	-moz-border-radius: ;
+}
+.ptabtab {
+	background-color: #FFCC99;
+	height:100%;
+	border-collapse: separate;
+	border-width: 1px;
+	border-spacing: 1px;
+	border-style: outset;
+	border-color: black;
+	font-family: Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height:1.5em;
+	text-align: justify;
+	font-style: normal;
+	letter-spacing: 0.0em;	
+}
+.ptabtab td {
+	border-width: 1px;
+	padding: 3px;
+	border-style: inset;
+	border-color: gray;
+	-moz-border-radius: ;
+}
+.img{
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+	border:0px solid #000000;
+	background-color:#FFCC99;
+	-webkit-box-shadow: #000000 0px 0px 0px;
+	-moz-box-shadow: #000000 0px 0px 0px;
+	box-shadow: #000000 0px 0px 0px;
+}
+.ban{
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	border:0px solid #000000;
+	background-color:#FFCC99;
+	-webkit-box-shadow: #000000 0px 0px 0px;
+	-moz-box-shadow: #000000 0px 0px 0px;
+	box-shadow: #000000 0px 0px 0px;
+}
+.marq{
+color:#333333
+font-size:12px;
+	line-height:1.5em;
+	text-align:left;
+	font-weight: bold;
+	font-family: Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.employee{
+color:#333333
+font-size:12px;
+	line-height:normal;
+	text-align:left;
+	font-weight: normal;
+	font-family: Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.downloadlink{
+color:#333333
+font-size:12px;
+	line-height:normal;
+	text-align:left;
+	font-weight: normal;
+	font-family: Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0033FF;
+}
+.contact{
+color:#333333
+font-size:12px;
+	line-height:1.5em;
+	text-align:center;
+	font-weight: bold;
+	font-family: Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+}
+.noticeboard{
+color:#333333
+font-size:12px;
+	text-align:center;
+	font-weight: bolder;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #000000;
+}
+.bigfont{
+	font-family:Book Antiqua, Verdana,Geneva,Helvetica,sans-serif;
+	font-size:24pt;
+	line-height:16px;
+	text-align: justify;
+	font-weight: bolder;
+	color: #FF3300;
+}
+.link_top{
+	color:#4A2D00;
+	font-size:11px;
+	font-family:Book Antiqua, Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: baseline;
+	border: 1px solid #009900;
+	list-style-position: inside;
+	list-style-type: disc;
+	background-color: #FFCC00;
+	text-align: justify;
+
+}
+.link_top:hover{
+color:#FF6600;
+font-size:11px;
+font-family:Book Antiqua, Verdana, Arial, Helvetica, sans-serif
+}
+
+
+
+
+.dhtmlgoodies_tabPane{
+		height:21px;	/* Height of tabs */
+		border-bottom:1px solid #919b9c;
+	}
+	.dhtmlgoodies_aTab{
+		border-left:1px solid #919b9c;
+		border-right:1px solid #919b9c;
+		border-bottom:1px solid #919b9c;
+		font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+		padding:5px;		
+		
+	}
+	.dhtmlgoodies_tabPane DIV{
+		float:left;
+		height:100%;	/* Height of tabs */
+		padding-left:3px;
+		vertical-align:middle;
+		background-repeat:no-repeat;
+		background-position:bottom left;
+		cursor:pointer;
+		position:relative;
+		bottom:-1px;
+		margin-left:0px;
+		margin-right:0px;
+	}
+	.dhtmlgoodies_tabPane .tabActive{
+		background-image:url('../images/tab_left_active.gif');
+		margin-left:0px;
+		margin-right:0px;	
+		z-index:10;	
+	}
+	.dhtmlgoodies_tabPane .tabInactive{
+		background-image:url('../images/tab_left_inactive.gif');
+		margin-left:0px;
+		margin-right:0px;
+		z-index:1;
+	}
+
+	.dhtmlgoodies_tabPane .inactiveTabOver{
+		background-image:url('../images/tab_left_over.gif');
+		margin-left:0px;
+		margin-right:0px;
+	}
+	.dhtmlgoodies_tabPane span{
+		font-family:arial;
+		vertical-align:top;
+		font-size:11px;
+		padding-left:3px;
+		padding-right:3px;		
+		line-height:21px;
+		float:left;
+	}
+	.dhtmlgoodies_tabPane .tabActive span{
+		padding-bottom:1px;
+		line-height:20px;
+	}
+	
+	.dhtmlgoodies_tabPane img{
+		float:left;
+	}
+.hr, hr { border: 0px; width: 188px; 
+height: 6px; 
+background: url("images/hr.jpg") top center no-repeat white; 
+margin: 20px auto; 
+text-align: center; 
+} 
